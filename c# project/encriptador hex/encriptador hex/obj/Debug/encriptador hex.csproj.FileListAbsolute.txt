@@ -1,0 +1,7 @@
+I:\programacion\c#\encriptador hex\encriptador hex\bin\Debug\encriptador hex.exe.config
+I:\programacion\c#\encriptador hex\encriptador hex\bin\Debug\encriptador hex.exe
+I:\programacion\c#\encriptador hex\encriptador hex\bin\Debug\encriptador hex.pdb
+I:\programacion\c#\encriptador hex\encriptador hex\obj\Debug\encriptador hex.csprojResolveAssemblyReference.cache
+I:\programacion\c#\encriptador hex\encriptador hex\obj\Debug\encriptador hex.csproj.CoreCompileInputs.cache
+I:\programacion\c#\encriptador hex\encriptador hex\obj\Debug\encriptador hex.exe
+I:\programacion\c#\encriptador hex\encriptador hex\obj\Debug\encriptador hex.pdb
